@@ -1,0 +1,11 @@
+job_id,title,company,location,contract,education,skills,salary,publication_date,description,url
+1,Data Analyst,Entreprise A,Lille,Alternance,Bac+4/5,"Python;SQL;Power BI;Excel",,2026-09-20,"Analyse des données, création de tableaux de bord et suivi des indicateurs.","https://example.com/offre-1"
+2,Data Scientist,Entreprise B,Paris,Alternance,Bac+5,"Python;Machine Learning;SQL;Pandas",1400,2026-09-19,"Développement de modèles de machine learning et analyse de données.","https://example.com/offre-2"
+3,BI Analyst,Entreprise C,Lille,Alternance,Bac+4/5,"SQL;Power BI;Excel;DAX",,2026-09-18,"Production de rapports et de tableaux de bord pour accompagner les équipes métier.","https://example.com/offre-3"
+4,Data Analyst,Entreprise D,Lyon,Stage,Bac+4/5,"Python;SQL;Tableau",1200,2026-09-17,"Préparation des données, analyses exploratoires et visualisation.","https://example.com/offre-4"
+5,Data Engineer,Entreprise E,Paris,Alternance,Bac+4/5,"Python;SQL;ETL;Spark",1500,2026-09-16,"Participation à la construction et à la maintenance de pipelines de données.","https://example.com/offre-5"
+6,Data Analyst,Entreprise F,Lille,Alternance,Bac+3/5,"Excel;SQL;Power BI;Python",,2026-09-15,"Analyse des performances et création de reportings à destination des équipes.","https://example.com/offre-6"
+7,Data Scientist,Entreprise G,Villeneuve-d'Ascq,Stage,Bac+5,"Python;Scikit-learn;Machine Learning;SQL",1300,2026-09-14,"Analyse de données et développement de modèles prédictifs.","https://example.com/offre-7"
+8,Analyste BI,Entreprise H,Lille,Alternance,Bac+4,"SQL;Power BI;Excel",,2026-09-13,"Conception de tableaux de bord et analyse des indicateurs de performance.","https://example.com/offre-8"
+9,Data Analyst,Entreprise I,Paris,Alternance,Bac+4/5,"Python;SQL;Pandas;Excel",1450,2026-09-12,"Nettoyage, transformation et analyse de données.","https://example.com/offre-9"
+10,Data Scientist,Entreprise J,Lille,Alternance,Bac+5,"Python;NLP;Machine Learning;SQL",1550,2026-09-11,"Travail sur des problématiques de traitement automatique du langage et de machine learning.","https://example.com/offre-10"
